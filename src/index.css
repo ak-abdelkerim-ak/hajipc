@@ -50,17 +50,17 @@
     }
     .dua > .arabic{
         font-family: 'Amiri Quran', serif;
-        @apply text-2xl sm:text-3xl md:text-4xl lg:text-5xl pb-8 
+        @apply max-[320px]:text-lg sm:text-3xl md:text-4xl lg:text-5xl pb-8 
         bg-gradient-to-r from-violet-600 via-sky-400 to-violet-600
         bg-clip-text text-transparent
     }
     .dua>.amharic{
-        @apply text-violet-500 text-xl sm:text-2xl
+        @apply text-violet-500 text-lg sm:text-2xl
     }
     .dua>a{
         @apply absolute right-1 top-10 bg-white rounded-full text-yellow-600 
         p-3 flex justify-center items-center animate-bounce
-        shadow-lg md:right-10 md:top-20
+        shadow-[0px_0px_10px_0.5px_rgba(0,0,0,0.5)] shadow-yellow-100 md:right-10 md:top-20
     }
     .dua>a>:first-child{
         @apply md:mr-2
@@ -144,7 +144,7 @@
 
     /* Footer Section */
     .footer{
-        @apply bg-gray-700 py-5 px-20 flex flex-col justify-center
+        @apply bg-gray-700 py-5  flex flex-col justify-center px-14 md:px-20
     }
     .footer>div{
         @apply flex flex-col  space-y-3 justify-center items-center mb-3
@@ -176,7 +176,7 @@
         @apply mr-3
     }
     .footer>p{
-        @apply text-center text-white text-sm
+        @apply text-center text-white text-xs
     }
 
 }
