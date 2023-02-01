@@ -41,7 +41,7 @@
         font-family: 'Philosopher', sans-serif;
         @apply h-10 text-center flex justify-center items-center
         bg-gradient-to-r from-red-500 via-green-500 to-sky-500
-        bg-clip-text text-transparent  tracking-widest text-lg
+        bg-clip-text text-transparent  tracking-widest text-sm
         sm:text-2xl md:text-3xl md:tracking-[10px]
         lg:text-4xl  lg:tracking-[0.5em] 
     }
