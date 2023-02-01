@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "arabic": "إعراب الآجرومية",
+        "english": "Ajrum Erab",
+        "amharic": "አጅሩሚያህ ኢዕራብ",
+        "img" : "https://hajipc.com/wp-content/uploads/2023/01/ajrum-e1673965337592-150x150.webp",
+        "play": "https://play.google.com/store/apps/details?id=com.hajipc.haji"
+    },
+    {
+        "id": 2,
+        "arabic": "من أقوال العلماء",
+        "english": "...",
+        "amharic": "ከኡለሞች ንግግር",
+        "img" : "https://hajipc.com/wp-content/uploads/2023/01/ulemanigigir-e1673800408554-150x150.jpg",
+        "play": "https://play.google.com/store/apps/details?id=com.hajipc.abdure"
+    },
+    {
+        "id": 3,
+        "arabic": "...",
+        "english": "...",
+        "amharic": "አጅሩሚያ በአማርኛ",
+        "img" : "https://hajipc.com/wp-content/uploads/2023/01/aJRUMAmharic-e1673965379836-150x150.jpg",
+        "play": "https://play.google.com/store/apps/details?id=com.hajipc.ajrumamharic"
+    },
+    {
+        "id": 4,
+        "arabic": "شرح تلخيص متن البناء",
+        "english": "Sherhu Telkhis bina",
+        "amharic": "...",
+        "img" : "https://hajipc.com/wp-content/uploads/2023/01/bina-e1673800547148-150x150.webp",
+        "play": "https://play.google.com/store/apps/details?id=com.hajipc.bina"
+    },
+    {
+        "id": 5,
+        "arabic": " متن ملحة الإعراب",
+        "english": "Matn Mulhatul Earab",
+        "amharic": "...",
+        "img" : "https://hajipc.com/wp-content/uploads/2023/01/mulha-150x150.webp",
+        "play": "https://play.google.com/store/apps/details?id=com.hajipc.mulha"
+    },
+    {
+        "id": 6,
+        "arabic": "شرح متن أبي شجاع ",
+        "english": "Sherh Abi-Shuja",
+        "amharic": "...",
+        "img" : "https://hajipc.com/wp-content/uploads/2023/01/shuja-e1673899855203-150x150.webp",
+        "play": "https://play.google.com/store/apps/details?id=com.hajipc.shuja"
+    },
+    {
+        "id": 7,
+        "arabic": " حصن المصلم ",
+        "english": "Hisnul Muslim",
+        "amharic": "...",
+        "img" : "https://hajipc.com/wp-content/uploads/2023/01/arebhisn-e1673900001919-150x150.jpg",
+        "play": "https://play.google.com/store/apps/details?id=com.hajipc.arebichisn"
+    },
+    {
+        "id": 8,
+        "arabic": " عمدة السالك وعدة الناسك ",
+        "english": "Umdatu Saalik",
+        "amharic": "...",
+        "img" : "https://hajipc.com/wp-content/uploads/2023/01/umda-150x150.webp",
+        "play": "https://play.google.com/store/apps/details?id=com.hajipc.umda"
+    }
+]
